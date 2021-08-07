@@ -19,7 +19,7 @@ This wizard allows the user to define search critia for all selected GameObjects
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/6ekQvpR.png)
+![App Screenshot](https://i.imgur.com/t4JjTjR.png)
 
 
 ## Authors
