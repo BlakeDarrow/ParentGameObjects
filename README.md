@@ -10,6 +10,7 @@ This wizard allows the user to define search critia for all selected GameObjects
 - Move selected GameObjects to their new parent
 - Create empty GameObjects if parent doesnt exist
 - Alphabetize children
+- If selection is empty, all objects in hierarchy will be sorted
 
 ## Installation
 
@@ -18,7 +19,7 @@ Download the file called "ParentGameObjects" and place it under an "Editor" fold
   
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/BlakeDarrow/ParentGameObjects/blob/main/LICENSE)
 
 
 ## Screenshots
