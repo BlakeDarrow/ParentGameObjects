@@ -16,12 +16,12 @@ This wizard allows the user to define search critia for all selected GameObjects
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-  
-## Authors
 
-- [@blakedarrow](https://www.github.com/blakedarrow)
-
-  
 ## Screenshots
 
 ![App Screenshot](https://i.imgur.com/6ekQvpR.png)
+
+
+## Authors
+
+- [@blakedarrow](https://www.github.com/blakedarrow)
