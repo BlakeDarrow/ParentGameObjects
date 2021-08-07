@@ -15,7 +15,6 @@ using System;
 	//			Change/add these values
 
 	"Plants", 
-	"Plants",
 	"Rocks",
 
 	}; 
@@ -28,7 +27,6 @@ using System;
 	//			Change/add these values
 
 	"tree",
-	"grass",
 	"rock",
 
 	}; 
@@ -38,7 +36,7 @@ using System;
 	public bool alphabetize = true;
 	[Header("")]
 	[TextArea(8,8)]
-	public string Help =  "This wizard will parent the selected GameObjects (or all if none) based on user defined feilds. The 'Parent Folder' field requires the exact naming of the gameobjects that will act as parents. If no GameObjects exist with that name, they will be created. The 'Contains Search Criteria' field also requires exact naming. When the Alphabetize box is checked, the gameobjects will be sorted after becoming children.";
+	public string Help =  "This wizard will parent the selected GameObjects based on user defined feilds. The 'Parent Folder' field requires the exact naming of the gameobjects that will act as parents. If no GameObjects exist with that name, they will be created. The 'Contains Search Criteria' field also requires exact naming. When the Alphabetize box is checked, the gameobjects will be sorted after becoming children.";
 	[TextArea(4,8)]
 	public string DefaultSettings = "To change default settings open the 'ParentGameObject.cs' file and change the public string values titled 'parentObject', and 'containsSearchCriteria'. Save and re-open the wizard.";
 	[MenuItem("DarrowTools/Parent GameObjects")]
