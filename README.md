@@ -1,7 +1,7 @@
 
 # ParentGameObjects Unity Wizard
 
-This wizard allows the user to define search critia for all selected GameObjects. If any GameObjects correctly corresponds with the parent(s) GameObject, they will be parented and then sorted.
+This wizard allows the user to define search critia for all selected GameObjects. If any GameObject correctly corresponds with the parent(s) GameObject, they will be parented and then sorted.
 
 
 ## Features
