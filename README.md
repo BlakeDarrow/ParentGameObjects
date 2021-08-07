@@ -11,6 +11,10 @@ This wizard allows the user to define search critia for all selected GameObjects
 - Create empty GameObjects if parent doesnt exist
 - Alphabetize children
 
+## Installation
+
+Download the file called "ParentGameObjects" and place it under an "Editor" folder within Unity.
+
   
 ## License
 
