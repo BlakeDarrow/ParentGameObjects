@@ -6,6 +6,7 @@ This wizard allows the user to define search critia for all selected GameObjects
 
 ## Features
 
+- Located under --> "DarrowTools/Parent GameObjects" in the Unity header
 - Move selected GameObjects to their new parent
 - Create empty GameObjects if parent doesnt exist
 - Alphabetize children
